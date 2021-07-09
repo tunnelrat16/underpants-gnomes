@@ -1,0 +1,15 @@
+body {
+  font-family: georgia, sans-serif;
+  padding: 36px;
+}
+
+li {
+  margin-bottom: 24px;
+}
+
+button {
+  border: none;
+  box-shadow: 0 2px 3px hsl(0, 0%, 50%);
+  padding: 24px;
+  background-color: hsl(240, 40%, 85%);
+}
