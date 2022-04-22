@@ -6,7 +6,7 @@ function displayPlan() {
     const step1 = "Collect underpants."
     const step2 = "???"
     const step3 = "Profit!"
-    li1.innerHTML = `${step1}`;
-    li2.innerHTML = `${step2}`;
-    li3.innerHTML = `${step3}`;
+    li1.textContent = step1;
+    li2.textContent = step2;
+    li3.textContent = step3;
 }
